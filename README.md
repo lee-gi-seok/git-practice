@@ -12,3 +12,4 @@ git Init
 |----|----|
 |add|stage|
 |커밋|commit|
+|푸시|push|
