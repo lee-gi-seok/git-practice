@@ -18,5 +18,5 @@ members:
 - Stash
 >>>>>>> Stashed changes
 
-fetch:
-- this
+fetch: this
+signed: yes
